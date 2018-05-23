@@ -1,5 +1,5 @@
 public class 
-DatoPrimitivos
+DatosPrimitivos
 {
               public static void main(String[ ] laht) {
               byte byte_min=-128;
